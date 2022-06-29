@@ -6,7 +6,7 @@ def test_button_add_to_busket(browser):
     browser.get(link)
     
     button = browser.find_element_by_css_selector("#add_to_basket_form > button")
-    #button.klick()
+    ####button.klick()
     time.sleep(10)
     
 def test_button_text(browser):
