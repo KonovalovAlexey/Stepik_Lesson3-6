@@ -22,6 +22,8 @@ def test_button_text(browser):
         
         if True:
             assert button == True, "Кнопка есть, проверьте название на английском"
+
+# Pl1
         
 
     
